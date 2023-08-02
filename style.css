@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(211, 227, 231);
+    padding: 4rem;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+button{
+    height: 2rem;
+    width: 5rem;
+    border-radius: 1rem;
+}
+
+.vermelho{
+    color: rgb(194, 35, 35);
+}
+
+.azul{
+    color: rgb(89, 189, 255);
+}
